@@ -1,7 +1,8 @@
 # Spotify-Clone
-A fully functional Spotify Clone with React JS, Styled Components using Spotify API and Context API.
 
-Spotify is a music service and it provides it's API for development. I have used Spotify Api for creating a Spotify Clone with React JS, Styled Components using Spotify Api and Context API.
+A fully functional Spotify Clone with React JS, Styled Components using Spotify API and Context API.
+Spotify is a music service and it provides it's API for development.
+I have used Spotify Api for creating a Spotify Clone with React JS, Styled Components using Spotify Api and Context API.
 
 ## Features
 `User Authentication:` Log in using your Spotify credentials to access personalized playlists and recommendations.
@@ -37,4 +38,5 @@ REACT_APP_SPOTIFY_CLIENT_ID=your-client-id
 REACT_APP_SPOTIFY_REDIRECT_URI=your-redirect-uri
 ```
 Start the development server: `npm start`
+
 Open your browser and navigate to `http://localhost:3000`.
